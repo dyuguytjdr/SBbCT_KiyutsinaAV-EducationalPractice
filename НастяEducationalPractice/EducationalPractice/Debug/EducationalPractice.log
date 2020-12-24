@@ -1,0 +1,6 @@
+﻿  MathLibrary.cpp
+D:\НастяEducationalPractice\EducationalPractice\MathLibrary.cpp(8,5): warning C4273: writeTo: несовместимое связывание dll
+D:\НастяEducationalPractice\EducationalPractice\MathLibrary.h(16,44): message : см. предыдущее определение "writeTo"
+  MathLibrary.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+     Создается библиотека D:\НастяEducationalPractice\Debug\EducationalPractice.lib и объект D:\НастяEducationalPractice\Debug\EducationalPractice.exp
+  EducationalPractice.vcxproj -> D:\НастяEducationalPractice\Debug\EducationalPractice.exe
